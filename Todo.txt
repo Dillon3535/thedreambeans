@@ -1,0 +1,24 @@
+* TODO:
+    * = means priority
+    - *fix displaying of resume files
+    - add base to all html files
+    - add reset password
+    - * add email features 
+    - extra learn how to pass js to alert user of things
+    -  
+
+* Finished:
+    - #// add phone numbers
+    - #// Delete Job Post and Applicants
+    - #//
+    - #//
+    - #// * let the employeer see who applied to their job request
+    - #//jobs expire
+    - #//fix id in applications
+    - #//let the employeer all applicants
+    - #//DB 
+    - #//hide login and register after user signs in 
+    - #//change menu acording to role
+
+
+Final presentation Monday Mayy 9th 5:15-7:15
